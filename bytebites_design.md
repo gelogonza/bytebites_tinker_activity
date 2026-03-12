@@ -1,4 +1,4 @@
-### FInal Diagram
+### Final Diagram
 
 ```mermaid
 erDiagram

@@ -1,6 +1,6 @@
 ## UML Class Diagram
 
-```mermaid
+mermaid
 classDiagram
     class Customer {
         +int customerId
@@ -39,4 +39,4 @@ classDiagram
     Customer "1" --> "0..*" Order : places
     Order "1" --> "1..*" Item : contains
     Menu "1" --> "0..*" Item : lists
-```
+
